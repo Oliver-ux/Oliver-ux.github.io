@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f4353af.css",
+    "main.js": "/static/js/main.9f78b654.js",
+    "static/js/787.bbe01249.chunk.js": "/static/js/787.bbe01249.chunk.js",
+    "static/media/Mine.jpg": "/static/media/Mine.d810f7bc63f174e55a27.jpg",
+    "static/media/background.jpg": "/static/media/background.ade27173c262edd5c805.jpg",
+    "static/media/logo.png": "/static/media/logo.cecc3d0e3f763ff807ad.png",
+    "static/media/Skills.jpg": "/static/media/Skills.7e9c6ce572b0f02941da.jpg",
+    "static/media/Hobbies.jpg": "/static/media/Hobbies.e37fe9d727734c078c53.jpg",
+    "static/media/certi.jpg": "/static/media/certi.2b6407cc2545866a50d1.jpg",
+    "static/media/CSUlogo.jfif": "/static/media/CSUlogo.7d3994b95c42399fb78c.jfif",
+    "index.html": "/index.html",
+    "main.4f4353af.css.map": "/static/css/main.4f4353af.css.map",
+    "main.9f78b654.js.map": "/static/js/main.9f78b654.js.map",
+    "787.bbe01249.chunk.js.map": "/static/js/787.bbe01249.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f4353af.css",
+    "static/js/main.9f78b654.js"
+  ]
+}
